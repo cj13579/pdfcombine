@@ -1,2 +1,12 @@
 env/
 *.pdf
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+.coverage
+.coverage.xml
+htmlcov/
